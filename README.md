@@ -16,6 +16,7 @@ ZstdMC是一个旨在优化多人模式网络占用的mod
 
 
 ZstdMC: Multiplayer Network Optimization
+
 ZstdMC is a performance-focused mod designed to optimize network bandwidth usage in multiplayer environments.
 
 By replacing Minecraft's built-in compression and decompression modules with the Zstandard (zstd) library, this mod achieves significantly higher compression ratios, resulting in substantial data savings. In most scenarios, it provides these benefits with no negative impact on the game's stability or performance.
